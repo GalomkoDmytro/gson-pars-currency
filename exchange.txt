@@ -1,0 +1,1 @@
+[entities.ExchangeRate{r030='826', txt='Фунт стерлінгів', rate='36.881857', cc='GBP', exchangedate='01.10.2018'}, entities.ExchangeRate{r030='840', txt='Долар США', rate='28.269931', cc='USD', exchangedate='01.10.2018'}, entities.ExchangeRate{r030='978', txt='Євро', rate='32.725272', cc='EUR', exchangedate='01.10.2018'}]
